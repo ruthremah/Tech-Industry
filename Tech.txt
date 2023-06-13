@@ -1,0 +1,13 @@
+Tech Industry
+
+Types of Programming Lang
+- Kotlin
+- Java
+- C++
+- C#
+- C
+- JavaScript
+- Python
+- Golang
+- Ruby
+- Php
